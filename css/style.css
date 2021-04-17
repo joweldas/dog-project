@@ -575,5 +575,25 @@ text-align: center;
 
 
   /*-------------LASTBANNER CSS END---------*/
-.last-icon ul li {list-style: none;
+.lasticon ul li {list-style: none;
+	display: inline-block;
+	margin-top: 6em;
+	margin-left: 5px;
+	color: white;
+	
+	/*position: absolute;
+	top: 382em;
+	right: 20em;*/
+
+}
+.lasticon ul {
+margin-left: 21em;}
+.lasticon ul li a i{
+	color: white;
+	background-color: blue;
+	height: 30px;
+	width: 30px;
+	line-height: 30px;
+	text-align: center;
+	border-radius: 40%;
 }
